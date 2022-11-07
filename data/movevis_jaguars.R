@@ -59,7 +59,7 @@ frames <- frames_spatial(am, path_colours = c("#E69F00"),path_legend = T, path_l
  
 
   # adiciona informaces aos frames, como os eixos das coordenadas, titulos, subtitulos, escala, norte.
-  add_labels(x = "Longitude", y = "Latitude", title="Trajectory of a female jaguar the in Brazilian wetlands" , subtitle="Jaguar movement database: a GPS-based movement dataset <doi.org/10.1002/ecy.2379>") %>% 
+  add_labels(x = "Longitude", y = "Latitude", title="Trajectory of a female jaguar in the Brazilian wetlands" , subtitle="Jaguar movement database: a GPS-based movement dataset <doi.org/10.1002/ecy.2379>") %>% 
   add_timestamps(am, type = "label") %>% 
   add_progress()
 
