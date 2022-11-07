@@ -1,4 +1,4 @@
-#30DayMapChallenge - Day 2: Lines
+## #30DayMapChallenge - Day 2: Lines
 
 Visualizing the trajectory of a female jaguar in the Brazilian wetlands from a GPS-based movement dataset [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
 
