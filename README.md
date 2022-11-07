@@ -5,7 +5,7 @@ Visualizing the trajectory of a female jaguar the in Brazilian wetlands from a G
 - [Script `.R`]()
 
 - [Database `.csv`]()
-- [Database `.xlsx`]()
+- [Database `.xlsx`](https://github.com/fblpalmeira/jaguar_trajectory/blob/main/data/Jaguar_additional%20information.xlsx)
 
 <img src="">
 
